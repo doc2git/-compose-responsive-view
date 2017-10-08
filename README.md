@@ -1,13 +1,10 @@
 # inspiration-responsive-view
 
-  *
-link: *http://doc2git.com/edit-code-view--pad/*
-  *
-state: *只是修复bug，基本上不加新功能*
-  *
-inspiration: *Any html render*
+  > link: *git@github.com:doc2git/inspiration-responsive-view.git*
 
+  > state: *进入开发期*
 
+  > inspiration: *boostrap*
 
 + ### 构想:
 1.
